@@ -1,3 +1,12 @@
+# City Guide App
+
+## you need
+
+- [npm](https://github.com/npm/cli)
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [bootstrap](https://github.com/twbs/bootstrap)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
