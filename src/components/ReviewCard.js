@@ -10,7 +10,7 @@ class ReviewCard extends Component {
 
         return (
             <InfoConsumer>
-                {date => (
+                {data => (
                     <div className="media mt-5">
                         <img
                             src={avatar}

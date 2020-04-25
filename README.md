@@ -1,6 +1,15 @@
 # City Guide App
 
-## you need
+## App Setup
+
+```bash
+git clone https://github.com/av3000/react-city-app.git
+cd react-city-app
+npm install
+npm start
+```
+
+## Used Modules
 
 - [npm](https://github.com/npm/cli)
 - [create-react-app](https://github.com/facebook/create-react-app)
@@ -9,7 +18,7 @@
 - [styled-components](https://github.com/styled-components/styled-components)
 - [fontawesome](https://fontawesome.com/)
 
-## used commands
+## Used Commands
 
 To create react app and run it
 ```bash
