@@ -4,7 +4,27 @@
 
 - [npm](https://github.com/npm/cli)
 - [create-react-app](https://github.com/facebook/create-react-app)
+- [react-router-dom](https://github.com/winoteam/react-router-navigation)
 - [bootstrap](https://github.com/twbs/bootstrap)
+- [styled-components](https://github.com/styled-components/styled-components)
+- [fontawesome](https://fontawesome.com/)
+
+## used commands
+
+To create react app and run it
+```bash
+npm create-react-app YOUR_APP_NAME
+cd YOUR_APP_NAME_DIR
+npm start
+```
+
+To add used packages
+```bash
+npm i bootstrap react-router-dom
+npm i --save styled-components
+```
+
+For icons to work go to public/index.html change script tag with your account fontawesome link
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
